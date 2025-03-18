@@ -49,8 +49,6 @@ This Streamlit-based application allows users to upload multiple PDF files and c
 - `dotenv`
 - `sqlite3`
 
-## Contributing
-Feel free to submit pull requests or report issues.
 
 ## Demo video of the project
 "https://www.loom.com/share/6c94b4eaba584f2db1bc27add1f63cf7?sid=2b140e1f-557d-4874-b59b-9225f6ca666b"
